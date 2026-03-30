@@ -1,0 +1,16 @@
+torch>=2.1.0
+transformers>=4.45.0
+accelerate>=0.34.0
+vllm>=0.6.0
+ms-swift
+qwen-vl-utils
+datasets
+Pillow
+tqdm
+peft
+trl
+deepspeed
+scikit-learn
+pandas
+openai
+requests
