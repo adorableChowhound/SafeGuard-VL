@@ -170,10 +170,11 @@ SafeGuard-VL/
 如果本工作对您有帮助，请引用：
 
 ```bibtex
-@article{piao2026towards,
-  title={Towards Policy-Adaptive Image Guardrail: Benchmark and Method},
+@inproceedings{piao2026towards,
+  title={Towards policy-adaptive image guardrail: Benchmark and method},
   author={Piao, Caiyong and Yan, Zhiyuan and Xu, Haoming and Zhao, Yunzhen and Lin, Kaiqing and Xu, Feiyang and Zhou, Shuigeng},
-  journal={arXiv preprint arXiv:2603.01228},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16614--16623},
   year={2026}
 }
 ```
